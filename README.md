@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obaidullah Buniadi From Afghanistan 
 - 👀 I’m interested in Back-end like:PHP,Python...
-- 🌱 I’m currently working as a Software Engineere By the Help Of Allah(SWT)
-- 💞️ I’m looking to collaborate on Big Projects too  in Order To enhance my Skills .
+- 🌱 I’m currently working as a Database Manager With the Help Of Allah(SWT)
+- 💞️ I’m looking to collaborate on Big Projects too  in Order To enhance my Skills And enjoy my Coding World .
 - 📫 How to reach me ...  ObaidullahBuniadi@gmail.com
 
 <!---
